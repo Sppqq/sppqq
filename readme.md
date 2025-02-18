@@ -1,1 +1,1 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=sppqq&theme=dark&hide_border=true&locale=ru)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight-topaz.vercel.app?user=sppqq)](https://sppqq.github.io/site/)
