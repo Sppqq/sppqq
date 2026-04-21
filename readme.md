@@ -6,8 +6,15 @@
 <!-- SOCIALS -->
 <p align="center">
   <a href="https://t.me/sppqgg"><img src="https://img.shields.io/badge/Telegram-1a1b26?style=for-the-badge&logo=telegram&logoColor=7AA2F7" alt="Telegram" /></a>
+  <a href="https://hipolink.net/sppq"><img src="https://img.shields.io/badge/All_Links-1a1b26?style=for-the-badge&logo=linktree&logoColor=7AA2F7" alt="Hipolink" /></a>
   <a href="mailto:sppq@glyph-labs.site"><img src="https://img.shields.io/badge/Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=7AA2F7" alt="Email" /></a>
   <a href="https://glyph-labs.site"><img src="https://img.shields.io/badge/Website-1a1b26?style=for-the-badge&logo=google-chrome&logoColor=7AA2F7" alt="Website" /></a>
+</p>
+
+<!-- DONATIONS -->
+<p align="center">
+  <a href="https://www.donationalerts.com/r/sppq"><img src="https://img.shields.io/badge/DonationAlerts-1a1b26?style=for-the-badge&logo=donationalerts&logoColor=FF9E64" alt="DonationAlerts" /></a>
+  <a href="https://hipolink.net/sppq/tips"><img src="https://img.shields.io/badge/Support_Me-1a1b26?style=for-the-badge&logo=heart&logoColor=f7768e" alt="Tips" /></a>
 </p>
 
 ---
