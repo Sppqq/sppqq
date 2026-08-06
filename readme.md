@@ -34,8 +34,8 @@
 
 <!-- Основная статистика -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sppqq&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sppqq&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sppqq&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sppqq&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="165" alt="Top Languages" />
 </p>
 
 <p align="center">
