@@ -25,7 +25,6 @@
   <img src="https://img.shields.io/badge/Status-Student-1a1b26?style=for-the-badge&logo=read-the-docs&logoColor=A9B1D6" alt="Student" />
   <img src="https://img.shields.io/badge/Bots-TG_%26_Discord-1a1b26?style=for-the-badge&logo=probot&logoColor=7AA2F7" alt="Bots" />
   <img src="https://img.shields.io/badge/Crypto-TON_Network-1a1b26?style=for-the-badge&logo=ton&logoColor=0098EA" alt="Crypto" />
-  <img src="https://img.shields.io/badge/OS-Arch_Linux-1a1b26?style=for-the-badge&logo=arch-linux&logoColor=1793D1" alt="Arch Linux" />
 </p>
 
 ---
