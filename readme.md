@@ -1,24 +1,12 @@
 <div align="center">
 
-<!-- HEADER -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=I'm+Sppqq;Python+Developer;Computer+Science+Student;Security+Enthusiast;TON+Explorer" alt="Typing SVG" />
-
 <!-- SOCIALS -->
 <p align="center">
-  <a href="https://t.me/sppqgg"><img src="https://img.shields.io/badge/Telegram-1a1b26?style=for-the-badge&logo=telegram&logoColor=7AA2F7" alt="Telegram" /></a>
-  <a href="https://hipolink.net/sppq"><img src="https://img.shields.io/badge/All_Links-1a1b26?style=for-the-badge&logo=linktree&logoColor=7AA2F7" alt="Hipolink" /></a>
+  <a href="https://t.me/lellyn"><img src="https://img.shields.io/badge/Telegram-1a1b26?style=for-the-badge&logo=telegram&logoColor=7AA2F7" alt="Telegram" /></a>
+  <a href="https://sppq.dev"><img src="https://img.shields.io/badge/All_Links-1a1b26?style=for-the-badge&logo=linktree&logoColor=7AA2F7" alt="Hipolink" /></a>
   <a href="mailto:sppq@glyph-labs.site"><img src="https://img.shields.io/badge/Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=7AA2F7" alt="Email" /></a>
-  <a href="https://glyph-labs.site"><img src="https://img.shields.io/badge/Website-1a1b26?style=for-the-badge&logo=google-chrome&logoColor=7AA2F7" alt="Website" /></a>
+  <a href="https://sppq.me"><img src="https://img.shields.io/badge/Website-1a1b26?style=for-the-badge&logo=google-chrome&logoColor=7AA2F7" alt="Website" /></a>
 </p>
-
----
-
-### 🛠️ Tech Stack & Focus
-
-<!-- Иконки технологий -->
-<img src="https://skillicons.dev/icons?i=py,arch,linux,windows,git,vscode&theme=dark" alt="Tech Stack" />
-
-<br/><br/>
 
 <!-- Тэги специализации -->
 <p align="center">
